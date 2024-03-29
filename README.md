@@ -4,7 +4,7 @@ Pentaomnia has organised a Hackathon.
 
 Overview :-
 
-The Job Portable Project is a versatile job orchestration system aimed at simplifying task scheduling and execution across diverse computing infrastructures. It offers a unified interface for managing jobs efficiently, adaptable to various deployment environments including standalone machines, clusters, and cloud platforms.
+The Job Portable Project is a versatile job    orchestration system aimed at simplifying task scheduling and execution across diverse computing infrastructures. It offers a unified interface for managing jobs efficiently, adaptable to various deployment environments including standalone machines, clusters, and   cloud platforms.
 
 Features
 
@@ -18,7 +18,7 @@ Fault Tolerance: Incorporates robust fault tolerance mechanisms ensuring job rel
 
 Extensibility: Flexible architecture supporting modular plugin systems for tailored integrations and customizations.
 
-Installation
+Installation         
 To install Job Portable, clone the repository and follow the instructions outlined in the INSTALL.md file.
 
 Getting Started
